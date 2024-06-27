@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HabibaHafez
-- 👀 I’m interested in Data anlysis and web development 
-- 🌱 I’m currently studying Conputer Science at Cairo Uni 
+- 🌱A fresh grad from faculty of Computers and AI , Cairo University 
+- 👀 I’m interested in product management , data and front end development 
 - 📫 How to reach me https://www.linkedin.com/in/habiba-hafez-b56b61206/
 
 <!---
